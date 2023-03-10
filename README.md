@@ -1,4 +1,7 @@
 ENGLISH:
+
+If all else fails, this script restores your CP snapshot
+
 To actually restore an archive, we need 2 things:
 
 1) `snapshot-installer.php`
@@ -12,6 +15,9 @@ file convention (i.e. `[0-9a-f]{12}\.zip` or `full_*.zip`).
 Then call up snapshot-installer.php via your browser (e.g.: https://meinehompage/snapshot-installer.php)
 
 DEUTSCH
+
+Wenn nichts mehr geht, stellt dieses Skript Deinen CP-Snapshot wieder her
+
 Um ein Snapshot Archiv wiederherzustellen, benötigen wir zwei Dinge:
 
 1) `snapshot-installer.php`
