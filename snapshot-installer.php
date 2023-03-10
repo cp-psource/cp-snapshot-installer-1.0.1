@@ -5,7 +5,7 @@
  * Version: 1.0.1
  * Build: 2023-03-10
  *
- * Copyright 2009-2023 Incsub (https://n3rds.work)
+ * Copyright 2009-2023 WMS N@W (https://n3rds.work)
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License (Version 2 - GPLv2) as published by
