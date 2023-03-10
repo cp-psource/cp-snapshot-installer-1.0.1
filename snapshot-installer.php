@@ -1,7 +1,7 @@
 <?php
 
 /**
- * Snapshot Recovery installer
+ * CP Snapshot Recovery installer
  * Version: 1.0.1
  * Build: 2023-03-10
  *
